@@ -1,4 +1,4 @@
 spring:
   application:
-    name: config-test
+    name: test-client
     message: "hello Test"
