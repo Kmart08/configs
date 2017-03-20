@@ -1,4 +1,1 @@
-spring:
-  application:
-    name: test-client
-    message: "hello Test"
+message: "hello Test"
